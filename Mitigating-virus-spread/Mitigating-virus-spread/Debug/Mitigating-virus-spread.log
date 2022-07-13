@@ -1,0 +1,32 @@
+﻿  Mitigating-virus-spread.cpp
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(57): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(59): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(67): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(68): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(68): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(79): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(86): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(87): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(229): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(301): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(302): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(309): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(314): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(369): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(427): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(556): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(561): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(621): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(660): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(708): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(762): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(897): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(920): warning C4244: 'return' : conversion from 'float' to 'DWORD', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(766): warning C4101: 'cchStringSize' : unreferenced local variable
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(765): warning C4101: 'msgBuf' : unreferenced local variable
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(1051): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(1054): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(1111): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\vc programs\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread\mitigating-virus-spread.cpp(1155): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+  Mitigating-virus-spread.vcxproj -> C:\VC programs\Mitigating-virus-spread\Mitigating-virus-spread\Debug\Mitigating-virus-spread.exe
